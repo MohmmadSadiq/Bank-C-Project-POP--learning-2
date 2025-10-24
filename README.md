@@ -1,14 +1,21 @@
 # 🏦 Welcome to the C++ POP Bank System! 🌟
 
-Welcome to my C++ Bank Project! This isn't just a simple console application; it's a dedicated exercise in building a robust, maintainable, and scalable system using pure **Procedure-Oriented Programming (POP)**.
+Welcome to my C++ Bank Project! This project is a focused **learning endeavor**, intentionally built to demonstrate a strong command of **C++ fundamentals** and the practical application of **core software engineering principles**.
 
-This project demonstrates how to solve complex problems by breaking them down into logical, clean, and efficient functions. Dive in to see how fundamental software design principles can be applied effectively, even without using Object-Oriented Programming (OOP).
+It's more than a simple console app; it's a dedicated exercise in building a robust, maintainable, and scalable system using pure **Procedure-Oriented Programming (POP)**. Dive in to see how fundamental design principles create clean, effective code!
+
+## 🎯 A Showcase of Skill
+
+The primary goal of this repository is to serve as a practical demonstration of professional coding habits:
+
+* **For C++:** It shows a solid handling of the language, including data structures, file I/O, and logical control flow.
+* **For Software Engineering:** It proves that key principles (like Divide and Conquer, SRP, and DRY) can be applied effectively *even outside of OOP* to create a system that is easy to read, debug, and extend.
 
 ## ✨ My Core Coding Philosophy
 
 This project was built from the ground up with a deep respect for clean, organized, and reusable code. My entire approach is centered on these key principles:
 
-### 1. Divide and Conquer 
+### 1. Divide and Conquer (فرق تسد)
 The complex problem of "managing a bank" is broken down into smaller, logical, and manageable parts. You won't find a massive, unreadable `main()` function here!
 * The **UI logic** (what the user sees) is separate from...
 * The **Business Logic** (how a deposit *works*), which is separate from...
@@ -45,5 +52,3 @@ The project runs on a clear, procedural flow:
 4.  **Save:** All changes are immediately saved back to the `.txt` files to ensure data persistence.
 
 This project is a gleaming example of how **Procedure-Oriented Programming** can be used to write clean, powerful, and highly organized applications.
-
----
