@@ -8,7 +8,7 @@ This project demonstrates how to solve complex problems by breaking them down in
 
 This project was built from the ground up with a deep respect for clean, organized, and reusable code. My entire approach is centered on these key principles:
 
-### 1. Divide and Conquer (فرق تسد)
+### 1. Divide and Conquer 
 The complex problem of "managing a bank" is broken down into smaller, logical, and manageable parts. You won't find a massive, unreadable `main()` function here!
 * The **UI logic** (what the user sees) is separate from...
 * The **Business Logic** (how a deposit *works*), which is separate from...
